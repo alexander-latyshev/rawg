@@ -4,7 +4,7 @@
 
 ## Demo
 
-🌑 [Live Demo](https://nekusu.github.io/shopping-cart/)
+🌑 [Live Demo](https://rawg-ten.vercel.app/)
 
 ## Built with
 
