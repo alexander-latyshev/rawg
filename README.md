@@ -1,10 +1,6 @@
-<h1 align="center">Shopping Cart</h1>
+<h1 align="center">Store</h1>
 
 ![](/assets/presentation.png)
-
-<p align="center">
-  Shopping Cart for <a href="https://www.theodinproject.com/">The Odin Project</a>
-</p>
 
 ## Demo
 
@@ -40,13 +36,13 @@ Here are the steps to run the project locally.
 1. Clone the repository.
 
 ```sh
-git clone https://github.com/nekusu/shopping-cart.git
+git clone https://github.com/alexander-latyshev/rawg.git
 ```
 
 2. Install the dependencies.
 
 ```sh
-npm i
+npm install --legacy-peer-deps
 ```
 
 3. [Create a RAWG account](https://rawg.io/apidocs) to get your API key.
